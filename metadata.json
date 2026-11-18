@@ -1,0 +1,6 @@
+{
+  "name": "Runway Sweep",
+  "description": "Arcade winter airfield game where you plow snow up and down an active runway, dodge snow banks, collect power-ups, and clear the flight path for incoming planes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
